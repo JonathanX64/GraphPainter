@@ -43,6 +43,7 @@ int main(int argc, const char* argv[])
         g2.addEdge(3, 5);
         g2.addEdge(2, 5);
 
+
         int size = 11;
         Graph g3(size, "graph3.gv");
         for (int i = 0; i < size; i++) {
